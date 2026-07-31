@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+tensorflow
+shap
+pandas
+numpy
+python-dotenv
+firebase-admin
+email-validator
+scipy

@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --color-healthcare-blue: #1e3a8a;
+  --color-healthcare-light: #3b82f6;
+  --color-healthcare-purple: #4c1d95;
+  --color-healthcare-dark: #0f172a;
+  --color-healthcare-card: rgba(15, 23, 42, 0.6);
+}
+
+@layer base {
+  body {
+    @apply bg-healthcare-dark text-white font-sans antialiased;
+    margin: 0;
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-healthcare-card backdrop-blur-md border border-white/10 rounded-2xl p-6 shadow-xl;
+  }
+  
+  .glass-panel {
+    @apply bg-white/5 backdrop-blur-sm border border-white/5 rounded-xl;
+  }
+  
+  .btn-primary {
+    @apply px-6 py-3 bg-blue-600 hover:bg-blue-500 transition-colors duration-300 rounded-lg font-semibold shadow-lg shadow-blue-500/30;
+  }
+  
+  .btn-secondary {
+    @apply px-6 py-3 bg-white/10 hover:bg-white/20 transition-colors duration-300 rounded-lg font-semibold;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-3 bg-white/5 border border-white/10 rounded-lg focus:outline-none focus:border-blue-500 transition-colors text-white placeholder-gray-400;
+  }
+}
+
+/* Custom Scrollbar for a premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a; 
+}
+::-webkit-scrollbar-thumb {
+  background: #334155; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569; 
+}

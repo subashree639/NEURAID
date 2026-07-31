@@ -1,0 +1,3882 @@
+{
+    "users": {
+        "ac0cc1c8-0f4f-40e8-8490-673330754ffe": {
+            "id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "name": "John Doe",
+            "age": 30,
+            "gender": "Male",
+            "occupation": "Developer",
+            "email": "john@example.com",
+            "phone": "1234567890",
+            "password": "password"
+        },
+        "614ce549-df02-44b3-9ba1-4df034bc672d": {
+            "id": "614ce549-df02-44b3-9ba1-4df034bc672d",
+            "name": "suba",
+            "age": 15,
+            "gender": "Female",
+            "occupation": "entrepreneur",
+            "email": "subhaarjun793@gmail.com",
+            "phone": "9444749314",
+            "password": "123"
+        },
+        "2b5fbe88-bcb6-48e3-9075-21aae256751b": {
+            "id": "2b5fbe88-bcb6-48e3-9075-21aae256751b",
+            "name": "suba",
+            "age": 15,
+            "gender": "Female",
+            "occupation": "entrepreneur",
+            "email": "subha@gmail.com",
+            "phone": "9444749314",
+            "password": "123"
+        },
+        "dcc9d983-e0e1-4a7d-ad3d-d47cc6798a28": {
+            "id": "dcc9d983-e0e1-4a7d-ad3d-d47cc6798a28",
+            "name": "suba",
+            "age": 18,
+            "gender": "Female",
+            "occupation": "entrepreneur",
+            "email": "suba@gmail.com",
+            "phone": "9444749314",
+            "password": "123"
+        },
+        "01a3bed9-c3d8-4b87-8e87-1fef51dbee12": {
+            "id": "01a3bed9-c3d8-4b87-8e87-1fef51dbee12",
+            "name": "suba",
+            "age": 19,
+            "gender": "Female",
+            "occupation": "entrepreneur",
+            "email": "sub@gmail.com",
+            "phone": "9444749314",
+            "password": "123"
+        },
+        "309fe734-0d1a-40b9-b7f1-99d03870f7e3": {
+            "id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "name": "suba",
+            "age": 19,
+            "gender": "Female",
+            "occupation": "entrepreneur",
+            "email": "subhaarjun3@gmail.com",
+            "phone": "9444749314",
+            "password": "123"
+        }
+    },
+    "sessions": [
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "timestamp": "2026-06-27T22:20:13.651536",
+            "avg_hold_time": 100.0,
+            "avg_flight_time": 0,
+            "typing_speed": 6000.0,
+            "backspace_freq": 0.0,
+            "session_duration": 10.0
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "timestamp": "2026-06-27T22:23:58.338138",
+            "avg_hold_time": 100.0,
+            "avg_flight_time": 0,
+            "typing_speed": 6000.0,
+            "backspace_freq": 0.0,
+            "session_duration": 10.0
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "timestamp": "2026-06-27T22:24:17.333392",
+            "avg_hold_time": 100.0,
+            "avg_flight_time": 0,
+            "typing_speed": 6000.0,
+            "backspace_freq": 0.0,
+            "session_duration": 10.0
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "timestamp": "2026-06-27T22:40:33.431339",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.06249960937744139,
+            "backspace_freq": 0.0,
+            "session_duration": 960006.0
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "timestamp": "2026-06-27T22:41:03.428150",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.060605448429813844,
+            "backspace_freq": 0.0,
+            "session_duration": 990010.0
+        },
+        {
+            "user_id": "614ce549-df02-44b3-9ba1-4df034bc672d",
+            "timestamp": "2026-06-29T11:27:07.682198",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 1.9992669354569992,
+            "backspace_freq": 0.0,
+            "session_duration": 30011.0
+        },
+        {
+            "user_id": "2b5fbe88-bcb6-48e3-9075-21aae256751b",
+            "timestamp": "2026-06-29T11:44:14.257447",
+            "avg_hold_time": 61.666666666666664,
+            "avg_flight_time": 331.864406779661,
+            "typing_speed": 7.999964444602468,
+            "backspace_freq": 0.0,
+            "session_duration": 450002.0
+        },
+        {
+            "user_id": "2b5fbe88-bcb6-48e3-9075-21aae256751b",
+            "timestamp": "2026-06-29T11:44:43.921611",
+            "avg_hold_time": 124.89473684210526,
+            "avg_flight_time": 465.9655172413793,
+            "typing_speed": 7.374907813652329,
+            "backspace_freq": 0.0,
+            "session_duration": 480006.0
+        },
+        {
+            "user_id": "2b5fbe88-bcb6-48e3-9075-21aae256751b",
+            "timestamp": "2026-06-29T11:46:43.918945",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.09999950000249998,
+            "backspace_freq": 0.0,
+            "session_duration": 600003.0
+        },
+        {
+            "user_id": "614ce549-df02-44b3-9ba1-4df034bc672d",
+            "timestamp": "2026-06-29T11:49:38.063217",
+            "avg_hold_time": 155.375,
+            "avg_flight_time": 327.54545454545456,
+            "typing_speed": 0.5652132955558292,
+            "backspace_freq": 0.0,
+            "session_duration": 1380010.0
+        },
+        {
+            "user_id": "614ce549-df02-44b3-9ba1-4df034bc672d",
+            "timestamp": "2026-06-29T11:50:08.491415",
+            "avg_hold_time": 65.22222222222223,
+            "avg_flight_time": 374.5,
+            "typing_speed": 0.4253237777257938,
+            "backspace_freq": 0.0,
+            "session_duration": 1410690.0
+        },
+        {
+            "user_id": "dcc9d983-e0e1-4a7d-ad3d-d47cc6798a28",
+            "timestamp": "2026-06-29T12:00:49.917173",
+            "avg_hold_time": 87.33333333333333,
+            "avg_flight_time": 355.7358490566038,
+            "typing_speed": 107.96401199600133,
+            "backspace_freq": 0.0,
+            "session_duration": 30010.0
+        },
+        {
+            "user_id": "dcc9d983-e0e1-4a7d-ad3d-d47cc6798a28",
+            "timestamp": "2026-06-29T12:01:19.915923",
+            "avg_hold_time": 98.64615384615385,
+            "avg_flight_time": 311.69565217391306,
+            "typing_speed": 71.9856028794241,
+            "backspace_freq": 0.0,
+            "session_duration": 60012.0
+        },
+        {
+            "user_id": "dcc9d983-e0e1-4a7d-ad3d-d47cc6798a28",
+            "timestamp": "2026-06-29T12:01:50.145308",
+            "avg_hold_time": 110.72413793103448,
+            "avg_flight_time": 440.15625,
+            "typing_speed": 21.99877784567524,
+            "backspace_freq": 0.0,
+            "session_duration": 90005.0
+        },
+        {
+            "user_id": "01a3bed9-c3d8-4b87-8e87-1fef51dbee12",
+            "timestamp": "2026-06-29T14:22:09.459984",
+            "avg_hold_time": 172.28571428571428,
+            "avg_flight_time": 222.6,
+            "typing_speed": 13.991605036977813,
+            "backspace_freq": 0.0,
+            "session_duration": 30018.0
+        },
+        {
+            "user_id": "01a3bed9-c3d8-4b87-8e87-1fef51dbee12",
+            "timestamp": "2026-06-29T14:22:39.422146",
+            "avg_hold_time": 166.7037037037037,
+            "avg_flight_time": 979.5368421052632,
+            "typing_speed": 95.99200066661112,
+            "backspace_freq": 0.0,
+            "session_duration": 60005.0
+        },
+        {
+            "user_id": "01a3bed9-c3d8-4b87-8e87-1fef51dbee12",
+            "timestamp": "2026-06-29T14:23:09.456445",
+            "avg_hold_time": 162.52941176470588,
+            "avg_flight_time": 614.448275862069,
+            "typing_speed": 19.998222380232868,
+            "backspace_freq": 0.0,
+            "session_duration": 90008.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-06-30T11:07:41.034649",
+            "avg_hold_time": 159.0,
+            "avg_flight_time": 613.1666666666666,
+            "typing_speed": 13.99953334888837,
+            "backspace_freq": 0.0,
+            "session_duration": 30001.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-06-30T11:08:11.346086",
+            "avg_hold_time": 143.42307692307693,
+            "avg_flight_time": 393.98039215686276,
+            "typing_speed": 51.998266724442516,
+            "backspace_freq": 0.019230769230769232,
+            "session_duration": 60002.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-06-30T11:08:41.019769",
+            "avg_hold_time": 143.125,
+            "avg_flight_time": 414.325,
+            "typing_speed": 27.333029633004077,
+            "backspace_freq": 0.0,
+            "session_duration": 90001.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-06-30T11:09:11.034286",
+            "avg_hold_time": 190.1818181818182,
+            "avg_flight_time": 486.6363636363636,
+            "typing_speed": 5.4997250137493126,
+            "backspace_freq": 0.0,
+            "session_duration": 120006.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-01T10:49:37.981710",
+            "avg_hold_time": 148.29545454545453,
+            "avg_flight_time": 379.775,
+            "typing_speed": 21.99981666819443,
+            "backspace_freq": 0.022727272727272728,
+            "session_duration": 120001.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-01T10:50:07.756479",
+            "avg_hold_time": 162.38888888888889,
+            "avg_flight_time": 264.32,
+            "typing_speed": 21.58690394494007,
+            "backspace_freq": 0.018518518518518517,
+            "session_duration": 150091.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-01T10:50:37.665454",
+            "avg_hold_time": 156.27272727272728,
+            "avg_flight_time": 263.2325581395349,
+            "typing_speed": 14.999750004166597,
+            "backspace_freq": 0.0,
+            "session_duration": 180003.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:36:19.811826",
+            "avg_hold_time": 157.71428571428572,
+            "avg_flight_time": 689.2380952380952,
+            "typing_speed": 43.759323719542515,
+            "backspace_freq": 0.0,
+            "session_duration": 30165.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:36:49.994465",
+            "avg_hold_time": 187.33333333333334,
+            "avg_flight_time": 86.33070866141732,
+            "typing_speed": 146.95591322603218,
+            "backspace_freq": 0.0,
+            "session_duration": 60018.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:37:21.189980",
+            "avg_hold_time": 168.47169811320754,
+            "avg_flight_time": 1219.4335260115606,
+            "typing_speed": 119.92267281206652,
+            "backspace_freq": 0.0,
+            "session_duration": 91559.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:37:49.662767",
+            "avg_hold_time": 183.17857142857142,
+            "avg_flight_time": 354.1272727272727,
+            "typing_speed": 29.499016699443356,
+            "backspace_freq": 0.0,
+            "session_duration": 120004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:58:51.072253",
+            "avg_hold_time": 167.55555555555554,
+            "avg_flight_time": 347.875,
+            "typing_speed": 2.999516744524493,
+            "backspace_freq": 0.0,
+            "session_duration": 180029.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:59:21.343683",
+            "avg_hold_time": 191.82,
+            "avg_flight_time": 358.9795918367347,
+            "typing_speed": 14.857001361891792,
+            "backspace_freq": 0.057692307692307696,
+            "session_duration": 210002.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T10:59:51.355717",
+            "avg_hold_time": 149.4878048780488,
+            "avg_flight_time": 377.7435897435897,
+            "typing_speed": 10.249145904507957,
+            "backspace_freq": 0.0975609756097561,
+            "session_duration": 240020.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T11:00:21.054761",
+            "avg_hold_time": 180.96,
+            "avg_flight_time": 341.6818181818182,
+            "typing_speed": 5.555473252248114,
+            "backspace_freq": 0.04,
+            "session_duration": 270004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T11:03:31.896529",
+            "avg_hold_time": 149.5,
+            "avg_flight_time": 273.05454545454546,
+            "typing_speed": 127.9829356085855,
+            "backspace_freq": 0.03125,
+            "session_duration": 30004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T11:04:01.892745",
+            "avg_hold_time": 165.56363636363636,
+            "avg_flight_time": 246.33333333333334,
+            "typing_speed": 62.99685015749212,
+            "backspace_freq": 0.015873015873015872,
+            "session_duration": 60003.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T11:04:31.924820",
+            "avg_hold_time": 166.4,
+            "avg_flight_time": 177.57627118644066,
+            "typing_speed": 44.664681569708016,
+            "backspace_freq": 0.0,
+            "session_duration": 90004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-06T11:05:01.952683",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.4999833338888704,
+            "backspace_freq": 0.0,
+            "session_duration": 120004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-08T12:21:32.085563",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 1.999866675554963,
+            "backspace_freq": 0.0,
+            "session_duration": 30002.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-08T12:23:02.035638",
+            "avg_hold_time": 177.5,
+            "avg_flight_time": 3304.0,
+            "typing_speed": 0.9999666677777408,
+            "backspace_freq": 0.0,
+            "session_duration": 120004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-08T12:28:01.710058",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.14285340145853323,
+            "backspace_freq": 0.0,
+            "session_duration": 420011.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-08T12:28:31.703989",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.13333125929152212,
+            "backspace_freq": 0.0,
+            "session_duration": 450007.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-09T19:34:38.341777",
+            "avg_hold_time": 143.0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.9999833336111065,
+            "backspace_freq": 0.0,
+            "session_duration": 60001.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-09T19:35:38.932522",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.49722795415558263,
+            "backspace_freq": 0.0,
+            "session_duration": 120669.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-09T19:36:08.246991",
+            "avg_hold_time": 155.7058823529412,
+            "avg_flight_time": 356.92,
+            "typing_speed": 20.399728003626617,
+            "backspace_freq": 0.0,
+            "session_duration": 150002.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-09T19:36:38.268514",
+            "avg_hold_time": 139.33333333333334,
+            "avg_flight_time": 434.8888888888889,
+            "typing_speed": 3.9999111130863754,
+            "backspace_freq": 0.0,
+            "session_duration": 180004.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-09T19:37:07.971295",
+            "avg_hold_time": 132.66666666666666,
+            "avg_flight_time": 486.1818181818182,
+            "typing_speed": 3.4284244960930246,
+            "backspace_freq": 0.08333333333333333,
+            "session_duration": 210009.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-09T19:38:08.263075",
+            "avg_hold_time": 0,
+            "avg_flight_time": 0,
+            "typing_speed": 0.2222205761438804,
+            "backspace_freq": 0.0,
+            "session_duration": 270002.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-23T09:53:32.507137",
+            "avg_hold_time": 155.375,
+            "avg_flight_time": 281.9230769230769,
+            "typing_speed": 3.999500062492188,
+            "backspace_freq": 0.0,
+            "session_duration": 240030.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-23T09:54:02.489242",
+            "avg_hold_time": 167.76923076923077,
+            "avg_flight_time": 271.2549019607843,
+            "typing_speed": 11.776861799637805,
+            "backspace_freq": 0.07547169811320754,
+            "session_duration": 270021.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-23T09:54:32.561946",
+            "avg_hold_time": 151.34782608695653,
+            "avg_flight_time": 251.2089552238806,
+            "typing_speed": 13.795723325769012,
+            "backspace_freq": 0.028985507246376812,
+            "session_duration": 300093.0
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "timestamp": "2026-07-23T09:55:02.491881",
+            "avg_hold_time": 175.0,
+            "avg_flight_time": 220.5,
+            "typing_speed": 1.454510193692274,
+            "backspace_freq": 0.0,
+            "session_duration": 330008.0
+        }
+    ],
+    "predictions": [
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 1.0000000000000002,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 97.94996703636278,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0.3976985706940961,
+            "risk_level": "Green",
+            "confidence": 94.03624545970204,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 6.826001335205444,
+            "risk_level": "Green",
+            "confidence": 90.40303887881778,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 9.060405268306788,
+            "risk_level": "Green",
+            "confidence": 85.94076027799643,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.27654009947791,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 2.5433926130766475,
+            "risk_level": "Green",
+            "confidence": 95.47111275938728,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 87.94496900144125,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 6.895646916958963,
+            "risk_level": "Green",
+            "confidence": 89.7202758092847,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 97.63056533447313,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0.19873101491556566,
+            "risk_level": "Green",
+            "confidence": 91.9449929107488,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0.8683878996639183,
+            "risk_level": "Green",
+            "confidence": 95.70767085389095,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 8.95162222091427,
+            "risk_level": "Green",
+            "confidence": 89.83623807460172,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 96.1161920704806,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 87.43374081441944,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 5.698535561784372,
+            "risk_level": "Green",
+            "confidence": 85.83327856695276,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 5.840801794275237,
+            "risk_level": "Green",
+            "confidence": 89.54562184542146,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.29173476193097,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 86.72098747782128,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 96.54809025040144,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 93.28786729718587,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 93.57145072192192,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 5.8088088346873334,
+            "risk_level": "Green",
+            "confidence": 87.98803849235529,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 94.78857395225205,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.6910365395428,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 4.6391342197163254,
+            "risk_level": "Green",
+            "confidence": 92.0437334256194,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 95.70589347210635,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.54145609644482,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 88.52167626283364,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.90084672360251,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 87.66929963135931,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 2.4335103693284643,
+            "risk_level": "Green",
+            "confidence": 97.63800106347222,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 4.442302173199147,
+            "risk_level": "Green",
+            "confidence": 88.2803779347127,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.6705800022048,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 95.62694811613756,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 87.0597189220122,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 1.3621342250606427,
+            "risk_level": "Green",
+            "confidence": 86.0682953867211,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 1.68360601664032,
+            "risk_level": "Green",
+            "confidence": 96.6409996800272,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 97.82536874737802,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.54079016658984,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 86.47040741096683,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 88.09322966861872,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 93.27966393907253,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.15993454546219,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 6.066080470481811,
+            "risk_level": "Green",
+            "confidence": 96.61111155968716,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 4.880004242521522,
+            "risk_level": "Green",
+            "confidence": 97.93500430968008,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0.24965389521931014,
+            "risk_level": "Green",
+            "confidence": 86.07140976594454,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 98.67195000218823,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 88.50612696970485,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 5.017422325086525,
+            "risk_level": "Green",
+            "confidence": 91.88090853970715,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 8.822955552072521,
+            "risk_level": "Green",
+            "confidence": 86.86330204809224,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 1.5470135787964572,
+            "risk_level": "Green",
+            "confidence": 90.73241224128358,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 4.5234583364430385,
+            "risk_level": "Green",
+            "confidence": 86.1200932223461,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.03391842205076,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 86.0867440416897,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 5.40918316560877,
+            "risk_level": "Green",
+            "confidence": 95.75323357326002,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 88.29129347459536,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 8.569036154871227,
+            "risk_level": "Green",
+            "confidence": 97.68416720252849,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 86.65202566561717,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "ac0cc1c8-0f4f-40e8-8490-673330754ffe",
+            "similarity_score": 0.9998611410036934,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.13035519001555,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99998666666843,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.99865299471496,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "2b5fbe88-bcb6-48e3-9075-21aae256751b",
+            "similarity_score": 0.9969132760861951,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 95.78556970655444,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 100,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 40.40840285409501,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -7.813232845660662,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "dcc9d983-e0e1-4a7d-ad3d-d47cc6798a28",
+            "similarity_score": 0.9955326601197743,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.59984705639155,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 12.95360979098421,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -12.380027416826476,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -33.32444313524163,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "01a3bed9-c3d8-4b87-8e87-1fef51dbee12",
+            "similarity_score": 0.8818904739602478,
+            "risk_percentage": 3.3162866406883413,
+            "risk_level": "Green",
+            "confidence": 90.70569501392647,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -3.2399727865748864,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 100,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 100,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9771973811205027,
+            "risk_percentage": 3.470475852738177,
+            "risk_level": "Green",
+            "confidence": 94.0,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -0.6918306122043729,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 10.576460657287845,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -86.53845321745642,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.94403134244824,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9771973811205027,
+            "risk_percentage": 1.1966521002665682,
+            "risk_level": "Green",
+            "confidence": 94.0,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -0.6918306122043729,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 10.576460657287845,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -86.53845321745642,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.94403134244824,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9962838717756946,
+            "risk_percentage": 1.5873129073315075,
+            "risk_level": "Green",
+            "confidence": 92.28619903836028,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 28.054743288126737,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 2.7040300254768717,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -82.3218117853381,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.84424298094973,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.99249866571905,
+            "risk_percentage": 4.657538186539892,
+            "risk_level": "Green",
+            "confidence": 89.4,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -1.8123172150410964,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -13.412188521656319,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -75.86205588585243,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -9.453125865129817,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9837637853254824,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 92.34182053422629,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -0.9274875618873597,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -38.11639942929085,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.80645701281602,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.90088634119999,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9836539958229926,
+            "risk_percentage": 0.0,
+            "risk_level": "Green",
+            "confidence": 87.55,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 8.93021279086199,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 59.4590535775799,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.9999607843291,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9836539958229926,
+            "risk_percentage": 5.73825868033435,
+            "risk_level": "Green",
+            "confidence": 87.55,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 8.93021279086199,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 59.4590535775799,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.9999607843291,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 0.0,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 1.5507623023839563,
+            "risk_level": "Green",
+            "confidence": 88.78909868037853,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 5.849584620678694,
+            "risk_level": "Green",
+            "confidence": 88.55981106646256,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 94.76507879669859,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 10.196350757422602,
+            "risk_level": "Green",
+            "confidence": 90.20324028978227,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 2.9105381501295766,
+            "risk_level": "Green",
+            "confidence": 94.1733268439897,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 90.64702630228174,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 11.000804182411256,
+            "risk_level": "Green",
+            "confidence": 97.56196741258064,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 10.816312125674559,
+            "risk_level": "Green",
+            "confidence": 87.24017170407647,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 6.584823609931194,
+            "risk_level": "Green",
+            "confidence": 89.2143380886527,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 1.2003508702579135,
+            "risk_level": "Green",
+            "confidence": 98.29840523127638,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 93.72940127208058,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 1.1059381903864547,
+            "risk_level": "Green",
+            "confidence": 90.86397509585082,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 11.002348033280034,
+            "risk_level": "Green",
+            "confidence": 96.35026087847979,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9881994528341776,
+            "risk_percentage": 4.180014011741365,
+            "risk_level": "Green",
+            "confidence": 88.49542703796028,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 13.338607840193815,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -26.38357411384228,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -36.975303142600886,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.83491964678535,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9934816652892848,
+            "risk_percentage": 0.0,
+            "risk_level": "Green",
+            "confidence": 89.8,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -9.301025295968445,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 1.9731178595326333,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 100,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 100,
+                    "direction": "Increased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9980780668225526,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 97.12231977300449,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -9.97882546744087,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -16.363221477731535,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -74.14895487515673,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 100,
+                    "direction": "Increased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9526978056205775,
+            "risk_percentage": 0.0,
+            "risk_level": "Green",
+            "confidence": 90.65,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 2.6677059766399216,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -32.87283533324899,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 83.70369130315683,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.9720078378054,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.953148147260558,
+            "risk_percentage": 5.351723106343348,
+            "risk_level": "Green",
+            "confidence": 90.6,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 2.6677059766399216,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -32.87283533324899,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 82.96295067215546,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.9720078378054,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9683357059675736,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.40966919529133,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 0.3907202130231012,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -42.57880610586784,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 52.90542145989519,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -11.496694215596643,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.927334478198918,
+            "risk_percentage": 11.49773237971743,
+            "risk_level": "Green",
+            "confidence": 97.2333390517411,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 0.8746708099634265,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -57.54293126637463,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": 5.137768823984827,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.94389862197346,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9453914062551052,
+            "risk_percentage": 7.051326181131169,
+            "risk_level": "Green",
+            "confidence": 94.2,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -12.755786777309302,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 100,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -79.3103379904881,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 100,
+                    "direction": "Increased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9453914062551052,
+            "risk_percentage": 7.551624034376876,
+            "risk_level": "Green",
+            "confidence": 94.2,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -12.755786777309302,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 100,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -79.3103379904881,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 100,
+                    "direction": "Increased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.998177155809762,
+            "risk_percentage": 7.792909110389475,
+            "risk_level": "Green",
+            "confidence": 85.27480505559241,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 5.099946486182247,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": 3.2732689395651176,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -86.8777728089219,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.91422336871527,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 83.59615041546316,
+            "risk_level": "Red",
+            "confidence": 97.58621621832657,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 93.59773161870825,
+            "risk_level": "Red",
+            "confidence": 88.2947784752827,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 87.01073808850016,
+            "risk_level": "Red",
+            "confidence": 91.45029269255153,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 87.01459644882145,
+            "risk_level": "Red",
+            "confidence": 87.1818490878259,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 90.41696106653905,
+            "risk_level": "Red",
+            "confidence": 86.67449437580977,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 100,
+            "risk_level": "Red",
+            "confidence": 91.71096035260439,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 97.57817860211026,
+            "risk_level": "Red",
+            "confidence": 93.05343163400619,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 93.76004611457476,
+            "risk_level": "Red",
+            "confidence": 96.05729851928956,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 91.80964612511852,
+            "risk_level": "Red",
+            "confidence": 87.5197652755796,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 88.6034259362641,
+            "risk_level": "Red",
+            "confidence": 92.7761167742192,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 85.06202268897792,
+            "risk_level": "Red",
+            "confidence": 92.71454576655303,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 87.13639447123442,
+            "risk_level": "Red",
+            "confidence": 97.80253558761947,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 89.52544681580054,
+            "risk_level": "Red",
+            "confidence": 88.87232327543295,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 83.62737729159241,
+            "risk_level": "Red",
+            "confidence": 91.78091828612403,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 100,
+            "risk_level": "Red",
+            "confidence": 97.8620840130895,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 94.3163736154606,
+            "risk_level": "Red",
+            "confidence": 92.06168989306906,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 90.69945524081703,
+            "risk_level": "Red",
+            "confidence": 91.56449090457,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 97.83711792108018,
+            "risk_level": "Red",
+            "confidence": 88.61535067504755,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 94.69391000397475,
+            "risk_level": "Red",
+            "confidence": 94.01289491373409,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 95.99869552125247,
+            "risk_level": "Red",
+            "confidence": 91.16509701215358,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.06417946762266742,
+            "risk_percentage": 89.66486046548795,
+            "risk_level": "Red",
+            "confidence": 91.08315289432106,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -99.99999247084742,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -99.99999764107244,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -99.22215517307386,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -99.92754864330115,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9925736150231622,
+            "risk_percentage": 0.0,
+            "risk_level": "Green",
+            "confidence": 89.8,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -5.89720594159866,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -11.716021331252225,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -58.53657822724656,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -55.185285733016244,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.9925736150231622,
+            "risk_percentage": 0.0,
+            "risk_level": "Green",
+            "confidence": 89.8,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": -5.89720594159866,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -11.716021331252225,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -58.53657822724656,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": -55.185285733016244,
+                    "direction": "Decreased"
+                }
+            ]
+        },
+        {
+            "user_id": "309fe734-0d1a-40b9-b7f1-99d03870f7e3",
+            "similarity_score": 0.974154061937946,
+            "risk_percentage": 0,
+            "risk_level": "Green",
+            "confidence": 85.86746483366291,
+            "shap_explanation": [
+                {
+                    "feature": "Hold Time",
+                    "impact": 16.075137648370877,
+                    "direction": "Increased"
+                },
+                {
+                    "feature": "Flight Time",
+                    "impact": -37.31392372260957,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Typing Speed",
+                    "impact": -47.58715167442591,
+                    "direction": "Decreased"
+                },
+                {
+                    "feature": "Error Rate",
+                    "impact": 94.57212112749376,
+                    "direction": "Increased"
+                }
+            ]
+        }
+    ]
+}
